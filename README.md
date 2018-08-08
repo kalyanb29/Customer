@@ -1,9 +1,9 @@
 # Customer
 # create some helper data:
-create_dept_category_map.py;
-create_seasonal_cat.py;
-create_user_dates.py;
-create_base_features.py;
+create_dept_category_map.py;<br/>
+create_seasonal_cat.py;<br/>
+create_user_dates.py;<br/>
+create_base_features.py;<br/>
 # create features by running these scripts. 
 Note that you need to create features for both training and test sets. To switch between running for training and test sets, set the python variable "testset" in the beginning of each script to False or True respectively.
 create_product_features1.py
